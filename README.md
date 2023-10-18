@@ -7,7 +7,6 @@ The repository contains a collection of graphs generated during the study, categ
 
 - Unimodal Late Fusion Boxplots
 - Multimodal Late Fusion Boxplots
-- Ensemble of Multimodal Experts
 
 Each of these main folders contains six subfolders, corresponding to the six tasks we considered:
 
