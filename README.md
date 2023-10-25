@@ -22,4 +22,4 @@ Each of these main folders contains six subfolders, corresponding to the six tas
 Within each subfolder, you'll find graphs representing both the results of experiments conducted using all modalities considered in the study, as well as the outcomes of modalities combined.
 
 ## Contact
-For any inquiries or further information, please feel free to reach out to us at the following email address: [a.francesconi8@gmail.com](mailto:a.francesconi8@gmail.com).
+For any inquiries or further information, please feel free to reach out to us at the following email address: [arianna.francesconi@alcampus.it](mailto:arianna.francesconi@alcampus.it).
